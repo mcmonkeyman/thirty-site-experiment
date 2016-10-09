@@ -1,0 +1,7 @@
+baseurl = "http://thirty-site-experiment.com/"
+languageCode = "en-us"
+title = "Thirty Site Experiment"
+theme = "purehugo"
+
+[Params]
+  Author = "Eoin O'Connor"
