@@ -1,4 +1,4 @@
-baseurl = "http://thirty-site-experiment.com/"
+baseurl = "https://mcmonkeyman1.gitlab.io/thirty-site-experiment/"
 languageCode = "en-us"
 title = "Thirty Site Experiment"
 theme = "purehugo"
