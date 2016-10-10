@@ -23,7 +23,7 @@ It may also  include an optional blog post if the subject or the code produced i
 
 # Ideas built so far:
 
-- This site
+- [This site](https://mcmonkeyman1.gitlab.io/thirty-site-experiment/)
 
 # Ideas:
 - Site with all the good resources I've found in my career so far organized and laid out in a clear manner
