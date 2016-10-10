@@ -22,3 +22,8 @@ git clone https://github.com/dplesca/purehugo.git
 hugo server
 ```
 
+# Deploy
+
+```
+git push gitlab master
+```
