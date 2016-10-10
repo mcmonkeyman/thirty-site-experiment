@@ -33,4 +33,4 @@ It may also  include an optional blog post if the subject or the code produced i
 - A site to build a pie chart that shows the aggregate facebook relationship status of all your friends
 
 # Terms:
--   web-artifact - web-sites, web-page or web-app
+-   web-artifact - web-site, web-page or web-app
