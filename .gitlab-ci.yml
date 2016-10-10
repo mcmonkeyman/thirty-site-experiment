@@ -2,7 +2,7 @@ image: publysher/hugo
 
 pages:
   script:
-    - hugo  -t=purehugo -s site/ -d ../public
+    - hugo -t=purehugo
   artifacts:
     paths:
     - public
