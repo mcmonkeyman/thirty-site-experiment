@@ -2,7 +2,11 @@ image: publysher/hugo
 
 pages:
   script:
-      - hugo -v -t=purehugo
+    - mkdir themes
+    - cd themes
+    - git clone https://github.com/dplesca/purehugo.git
+    - cd ../
+    - hugo -v
   artifacts:
     paths:
     - public
